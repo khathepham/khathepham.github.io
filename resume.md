@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Kha's Resume
 layout: default
 ---
 
