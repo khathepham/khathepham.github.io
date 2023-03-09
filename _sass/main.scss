@@ -1,0 +1,100 @@
+/*Reset Styles*/
+*, *:before, *:after{
+    box-sizing: border-box;
+}
+
+html, body, div, span, object, iframe, figure, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, code, em, img, small, strike, strong, sub, sup, tt, b, u, i, ol, ul, li, fieldset, form, label, table, caption, tbody, tfoot, thead, tr, th, td, main, canvas, embed, footer, header, nav, section, video{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    text-size-adjust: none;
+}
+
+footer, header, nav, section, main{
+    display: block;
+}
+
+body{
+    line-height: 1;
+}
+
+ol, ul{
+    list-style: none;
+}
+
+blockquote, q{
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after{
+    content: '';
+    content: none;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+input{
+    -webkit-appearance: none;
+    border-radius: 0;
+}
+
+
+/*Actual Styles*/
+
+
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+    width: 60%;
+    margin: 4% auto;
+}
+
+h1 {
+    font-size: 3.5em;
+    font-weight: bold;
+    margin: 1% auto;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 1% auto;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-style: italic;
+    margin: 2% auto .5%;
+}
+
+p {
+    margin: 1% auto;
+}
+
+blockquote {
+    padding: .05% 1%;
+    border-left: .25em solid cornflowerblue;
+    background-color: lightblue;
+    line-height: 1.25em;
+}
+
+ul {
+    width: 100;
+    margin: auto;
+}
+
+ul li {
+    list-style-type: circle;
+    list-style-position: inside;
+    margin-top: .5%;
+}

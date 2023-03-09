@@ -13,9 +13,9 @@ Canada: Winnipeg MB  R3T 6B3
 ## Contact Information
 
 > +1 (763) 862-8376  
-<khathepham@gmail.com>  
-[github.com/khathepham](www.github.com/khathepham)  
-[linkedin.com/in/khathepham](www.linkedin.com/in/khathepham)
+> <khathepham@gmail.com>  
+> [github.com/khathepham](www.github.com/khathepham)  
+> [linkedin.com/in/khathepham](www.linkedin.com/in/khathepham)
 
 ## Additional Information
 
@@ -26,20 +26,20 @@ Eligible to work in the US (Citizen) and Canada (Study/Work Permit).
 
 ## Key Skills
 
-- OOP  
-- Programming Practices  
-- Human-Computer Interaction  
-- Artificial Intelligence  
-- Technical Communications  
-- Databases | SQL
-- Java
-- C | C++ | C\#
-- Data Structures and Algorithms
-- Python 3
-- HTML | CSS | JS | Bootstrap
-- Unity Game Engine
-- GitHub | Version Control
-- Godot Game Engine
+* OOP
+* Programming Practices
+* Human-Computer Interaction
+* Artificial Intelligence
+* Technical Communications  
+* Databases \| SQL
+* Java
+* C \| C++ \| C\#
+* Data Structures and Algorithms
+* Python 3
+* HTML \| CSS \| JS \| Bootstrap
+* Unity Game Engine
+* GitHub \| Version Control
+* Godot Game Engine
 
 ---
 
@@ -55,7 +55,7 @@ Collaborated with classmates to design, prototype, and document an interface fol
 
 ### Costco Parking Simulator
 
-UManitoba CSSA Game Jam
+UManitoba CSSA Game Jam  
 Jan 2022
 > [Marshmallows7920/CSSAGameJam2020](https://github.com/Marshmallows7920/CSSAGameJam2022)  
 [marshmallows7920.itch.io/costco-parking-simulator](https://marshmallows7920.itch.io/costco-parking-simulator)
@@ -66,7 +66,7 @@ Collaborated to brainstorm and develop a game in 72 hours to tie in to the theme
 
 UManitoba CSSA Game Jam  
 Jan 2023  
-> [khathepham/CSGameJam-2023](https://github.com/khathepham/CSGameJam-2023)   
+> [khathepham/CSGameJam-2023](https://github.com/khathepham/CSGameJam-2023)  
 [marshmallows7920.itch.io/circuit-breaker](https://marshmallows7920.itch.io/circuit-breaker)
 
 Collaborated to brainstorm and develop a game in 72 hours to tie in to the theme of "Glitch". Aimed for players to play the role of the cat that gets into the owner’s computer and breaks circuits via mini-games with the intended result of having the owner can spend more time with the cat.
@@ -123,5 +123,5 @@ Minneapolis, MN, US
 
 ## Awards  
 
-2019 | AP Scholar Award with Honors  
-2019 | Questbridge Finalist
+2019 \| AP Scholar Award with Honors  
+2019 \| Questbridge Finalist
