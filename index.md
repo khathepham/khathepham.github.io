@@ -77,7 +77,7 @@ Collaborated to brainstorm and develop a game in 72 hours to tie in to the theme
 
 ### Frontier SCS | Integrated Services Representative
 
-Jun 2022 - Present  
+Jun 2022 - May 2023  
 Winnipeg, MB, CA
 
 Accurately processed customs documents for shipments entering Canada.
